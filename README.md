@@ -1,0 +1,2 @@
+# VirtualStazhirovkaSber
+ Виртуальная стажировка Сбера
